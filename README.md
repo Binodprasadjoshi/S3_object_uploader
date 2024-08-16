@@ -9,6 +9,6 @@ AWS CLI installed and configured
 ## Command structure to uploaad file
 
 ```bash
-  S3_object_uploader <file_path> <s3_bucket_name>
+  uploader <file_path> <s3_bucket_name>
 ```
 
