@@ -1,7 +1,5 @@
 #!/bin/bash
 
-# Usage: ./uploader.sh
-
 file_name=$1
 bucket_name=$2
 
