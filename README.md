@@ -6,7 +6,7 @@ This is bash based CLI tool. Using this tool, you can efficiently upload files t
 
 ## Prerequisites
 AWS CLI installed and configured
-## Command structure to uploaad file
+## Command structure to upload file
 
 ```bash
   ./uploader.sh <file_path> <s3_bucket_name>
